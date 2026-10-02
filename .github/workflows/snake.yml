@@ -1,5 +1,5 @@
 name: Generate Snake
-
+run-name: TEST OUTPUT BRANCH
 on:
   schedule:
     - cron: "0 0 * * *"
