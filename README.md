@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- Learning Python
+ [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
  QA Automation
  Exploring Game Development
 
