@@ -1,6 +1,7 @@
 ## Hi there 👋
+### 🛠️ Currently learning
 
- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
  QA Automation
  Exploring Game Development
 
