@@ -29,8 +29,6 @@ Currently learning step by step and building things along the way.
 
 ---
 
-> Learning by doing. One project at a time. 🐍
-
 ### 🐍 GitHub Activity
 
 ![GitHub Snake](https://raw.githubusercontent.com/Ujitsu/Ujitsu/output/github-snake.svg)
